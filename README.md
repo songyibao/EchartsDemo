@@ -5,8 +5,13 @@
 
 
 
-### 安装依赖
 
+
+### 可选：配置淘宝npm镜像源  
+```sh
+npm config set registry https://registry.npmmirror.com/
+```
+### 安装依赖
 ```sh
 npm install
 ```
