@@ -1,28 +1,23 @@
-# e2
+# EchartsDemo
 
-This template should help get you started developing with Vue 3 in Vite.
+使用 Echarts 绘制三维折线图进行数据可视化  
+输入文件格式参考 `template.csv`文件, 要求最后一列必须为时间戳(毫秒级或秒级都可)
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+### 安装依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 开发
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 部署
 
 ```sh
 npm run build
